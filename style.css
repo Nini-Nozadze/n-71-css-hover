@@ -1,0 +1,71 @@
+#input1{
+    width: 115px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #FFD43A;
+    border: none;
+    margin-top: 27px;
+    margin-left: 35px;
+}
+
+#input1:hover{
+background-color: #8CFF98;
+}
+
+#input2{
+    width: 285px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+    margin-left: 35px;
+}
+
+#input2:hover{
+    background-color: #D3D3D3;
+}
+
+#input3{
+    width: 336px;
+    height: 36px;
+    border: none;
+    border-radius: 10px;
+    background-color: #B43AFF;
+    color: white;
+    margin-left: 35px;
+}
+
+#input3:hover{
+    background-color: #FF3AE0;
+}
+
+#input4{
+    width: 441px;
+    height: 36px;
+    border: none;
+    border-radius: 10px;
+    background-color: #E9E9E9; 
+    margin-left: 35px;
+}
+
+#input4:hover{
+    border-radius: 2px;
+    background-color: #ABABAB;
+}
+
+#input5{
+    width: 559px;
+    height: 36px;
+    border: none;
+    border-radius: 10px;
+    background-color: #FFD43A;
+    margin-left: 35px;
+}
+
+#input5:hover{
+    width: 558px;
+    height: 58px;
+    border-radius: 30px;
+}
+
